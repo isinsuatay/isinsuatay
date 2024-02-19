@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/564x/3f/13/28/3f13289e39f39444aba862bbf0286324.jpg)
 <h1 align="center">Hi 👋, I'm Işınsu Atay</h1>
 <h3 align="center">I'm here to contribute to the world of software.</h3>
 
