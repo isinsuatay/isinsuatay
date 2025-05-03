@@ -55,6 +55,5 @@
 > – Işınsu, Level 26 Developer ⚡
 
 <p align="center">
-<img src="https://i.giphy.com/media/3og0IPxMM0erATueVW/giphy.webp" width="250px" />
   <b><i>Thanks for visiting my profile, see you in the terminal!</i></b>
 </p>
