@@ -1,59 +1,131 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="180px" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=I%C5%9F%C4%B1nsu+Atay;Mathematician+%7C+Data+Scientist+%7C+Software+Engineer;Building+intelligent+systems+with+Python+and+SQL;Transforming+data+into+insights;Machine+Learning+%E2%80%A2+AI+%E2%80%A2+Statistics" />
 </p>
 
+# 👋 Hello, I'm Işınsu Atay
+
+I'm a **Software Developer**, **Mathematician**, and **Data Science enthusiast** passionate about solving complex problems with code, statistics, and mathematical reasoning.
+
+My background in mathematics allows me to approach software engineering from an analytical perspective, combining **algorithms**, **machine learning**, and **data-driven decision-making** to build scalable and intelligent systems.
+
+I enjoy working at the intersection of:
+
+- 🧠 Artificial Intelligence & Machine Learning
+- 📊 Data Science & Statistical Modeling
+- 🐍 Python & Scientific Computing
+- 🗄️ SQL & Database Optimization
+- 📈 Data Visualization & Analytics
+- 🌐 Full-Stack Web Development
+
+---
+
+# 🚀 Core Expertise
+
+### 📊 Data Science & Analytics
+
+- Python (NumPy, Pandas, Scikit-learn, SciPy)
+- R Programming
+- SQL (PostgreSQL, MySQL, MongoDB)
+- Statistical Analysis & Probability
+- Data Cleaning & Feature Engineering
+- Data Visualization (Matplotlib, Seaborn, Plotly)
+- Exploratory Data Analysis (EDA)
+- Machine Learning & Predictive Modeling
+
+### 🧠 AI & Mathematical Reasoning
+
+- Mathematical Modeling
+- Optimization Algorithms
+- Discrete Mathematics & Number Theory
+- Probability & Statistics
+- AI Evaluation & Benchmarking
+- Large Language Model Reasoning
+- Computational Mathematics
+- Algorithm Design
+
+### 💻 Software Engineering
+
+- Python
+- C++
+- JavaScript & TypeScript
+- Node.js
+- React
+- Next.js
+- Vue 3 & Nuxt.js
+- Django & Express.js
+
+### 🗄️ Databases & Data Pipelines
+
+- PostgreSQL
+- MongoDB
+- SQL Optimization
+- ETL Pipelines
+- Data Warehousing
+- API Design & Integration
+
+### 🛠️ Tools & Workflow
+
+- Git & GitHub
+- Docker
+- Postman
+- Jupyter Notebook
+- Figma
+- Jira
+- Notion
+- Agile & Scrum
+
+---
+
+# 📚 Education
+
+🎓 Bachelor's Degree in Mathematics
+
+🎓 Associate Degree in Computer Programming
+
+---
+
+# 🔬 Current Focus
+
+- Building AI-powered systems
+- Designing mathematical benchmarks for large language models
+- Developing data-driven applications with Python and SQL
+- Exploring machine learning and predictive analytics
+- Creating scalable data pipelines and optimization algorithms
+
+---
+
+# 📈 Featured Projects
+
+🧠 **AI Mathematical Reasoning Benchmark**
+
+Evaluating large language models on advanced mathematical reasoning tasks, proof generation, and logical consistency.
+
+📊 **Predictive Analytics Dashboard**
+
+Building end-to-end analytical systems using Python, SQL, and statistical modeling.
+
+⚡ **Data Pipeline & Optimization**
+
+Designing efficient ETL workflows and optimizing database performance.
+
+---
+
+# 🌍 Let's Connect
+
 <p align="center">
-  <b>Loading creativity... Please wait ⚡</b>
-</p>
-
----
-
-- 👩‍💻 I'm **Işınsu Atay**, a passionate **Software Developer** with a strong foundation in both **frontend development**,**backend development**,**AI-enhanced tools**, and **mathematical problem-solving**.
-- 💼 Currently sharpening my skills through real-world experiences in **project management** and **UI/UX design** and **data-driven application development**.
-- 🌱 Always learning, always building — especially with **Vue 3**, **Next.js**, **Python**, and **creative web animations**.I’m also deeply interested in working with **databases** and **optimizing data flows** in modern web applications.
----
-
-### 💡 Skills & Power-Ups
-
-🟣 Languages:  `C++`,`Python`, `SQL`, ,`JavaScript`, `TypeScript`,`Node.js`
-🟢 Frameworks: `Vue 3`, `Next.js`,`Nuxt.js`,`React`, `Django`, `Express.js`  
-🔵 Tools: `MongoDB`, `PostgreSQL`, `TailwindCSS`, `Sass`, `CanvasJS`  
-🧪 Testing & Debug: `Postman`, `Jest`, `Chrome DevTools`  
-🎨 UI/UX Design: `Figma`, `Lottie`, `GSAP`, `Three.js`  
-📂 Project Flow: `Agile`, `Notion`, `Trello`, `Jira`  
-📚 Bonus XP: `AI-enhanced education`, `Computer maintenance`, `Math+CS writing`
-
----
-
-### 📜 Education & Adventures
-
-- 🎓 **Mathematics (Bachelor’s Degree)**
-- 🎓 Computer Programming (Associate Degree)
-- 💼 Internship in **Project Management** – developing documentation & agile workflows  
-- 🛠 Course Instructor for **Computer Maintenance & Repair** (Hardware + Software)  
-- ✍️ Technical Content Creator for educational platforms
-
----
-
-### 🎮 Press Start to Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/ışınsu-atay-948496299" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Neon?style=for-the-badge&logo=linkedin&logoColor=white&color=purple" />
+  <a href="https://linkedin.com/in/ışınsu-atay-948496299">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="https://github.com/isinsuatay">
-    <img src="https://img.shields.io/badge/GitHub-Retro?style=for-the-badge&logo=github&logoColor=white&color=blue" />
+    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github" />
   </a>
+
   <a href="https://medium.com/@isinsuatay">
-    <img src="https://img.shields.io/badge/Medium-Blog?style=for-the-badge&logo=medium&logoColor=white&color=black" />
+    <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium" />
   </a>
 </p>
 
 ---
 
-> 💬 “Stay curious. Code boldly. And always choose the neon pill.”  
-> – Işınsu, Level 26 Developer ⚡
-
-<p align="center">
-  <b><i>Thanks for visiting my profile, see you in the terminal!</i></b>
-</p>
+> **"Mathematics teaches us how to think. Programming teaches us how to build. Data teaches us how to understand the world."** ⚡
